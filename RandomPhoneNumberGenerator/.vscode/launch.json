@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PhoneNumb",
+            "request": "launch",
+            "mainClass": "PhoneNumber.PhoneNumb",
+            "projectName": "RandomPhoneNumberGenerator"
+        }
+    ]
+}
